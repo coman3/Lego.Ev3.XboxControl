@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{17A6D8F8-9C7A-4DEE-9F64-0031CBA37F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lego.Ev3.Desktop", "..\Packages\Lego.Ev3.Desktop\Lego.Ev3.Desktop.csproj", "{79C444DE-86F1-4AFF-903A-4B6ED31655EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lego.Ev3.Desktop", "..\Dependencies\Lego.Ev3.Desktop\Lego.Ev3.Desktop.csproj", "{79C444DE-86F1-4AFF-903A-4B6ED31655EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
